@@ -107,7 +107,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Getting Started"
       subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
+      image = "getting-started.jpg"
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
@@ -119,7 +119,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Young Adults"
       subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
+      image = "young-adults.jpg"
       url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
