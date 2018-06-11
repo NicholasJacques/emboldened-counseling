@@ -48,7 +48,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "About"
-      url = "blogs/ipsum"
+      url = "about"
 
     [[params.navigation.links]]
       name = "Adolescents"
@@ -56,7 +56,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
        name = "Young Adults"
-       url = "young_adults"
+       url = "young-adults"
 
     [[params.navigation.links]]
        name = "Resources"
