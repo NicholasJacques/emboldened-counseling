@@ -1,6 +1,6 @@
 baseURL = "https://hungry-spence-b18110.netlify.com"
 languageCode = "en-us"
-title = "Forty"
+title = "Emboldened Counseling"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -36,8 +36,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Emboldened"
+    subtitle = "Counseling"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
