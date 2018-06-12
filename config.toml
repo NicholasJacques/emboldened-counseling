@@ -102,31 +102,31 @@ disqusShortname = ""
       title = "About Me"
       subtitle = "Ipsum Dolor Sit Amet"
       image = "headshot.jpg"
-      url = "blogs/aliquam"
+      url = "about"
 
     [[params.tiles.showcase]]
       title = "Getting Started"
       subtitle = "Feugiat Amet Tempus"
       image = "getting-started.jpg"
-      url = "blogs/tempus"
+      url = "getting-started"
 
     [[params.tiles.showcase]]
       title = "Adolescents"
       subtitle = "Lorem Etiam Nullam"
       image = "adolescents.jpg"
-      url = "blogs/magna"
+      url = "adolescents"
 
     [[params.tiles.showcase]]
       title = "Young Adults"
       subtitle = "Nisl Sed Aliquam"
       image = "young-adults.jpg"
-      url = "blogs/ipsum"
+      url = "young-adults"
 
     [[params.tiles.showcase]]
       title = "Resources"
       subtitle = "Ipsum Dolor Sit Amet"
       image = "pic05.jpg"
-      url = "blogs/ipsum"
+      url = "resources"
 
     [[params.tiles.showcase]]
       title = "Blog"
