@@ -89,7 +89,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Emboldened Counseling"
-    subtitle = "Lorem ipsum dolor amet butcher flannel iceland fingerstache ea officia wayfarers chartreuse tofu mustache aliquip polaroid kickstarter."
+    subtitle = "Welcome to Emboldened Counseling, psychotherapy for young people in Denver, Colorado"
     buttonText = "Learn More"
 
 
@@ -99,40 +99,40 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "About Me"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "About Emmy"
+      subtitle = "Meet Emmy Crouter, MSW"
       image = "headshot.jpg"
       url = "about"
 
     [[params.tiles.showcase]]
       title = "Getting Started"
-      subtitle = "Feugiat Amet Tempus"
+      subtitle = "Learn about procedures, fees, and insurance."
       image = "getting-started.jpg"
       url = "getting-started"
 
     [[params.tiles.showcase]]
       title = "Adolescents"
-      subtitle = "Lorem Etiam Nullam"
+      subtitle = "Therapy for teens and pre-teens"
       image = "adolescents.jpg"
       url = "adolescents"
 
     [[params.tiles.showcase]]
       title = "Young Adults"
-      subtitle = "Nisl Sed Aliquam"
+      subtitle = "Therapy for twenty-somethings"
       image = "young-adults.jpg"
       url = "young-adults"
 
     [[params.tiles.showcase]]
       title = "Resources"
-      subtitle = "Ipsum Dolor Sit Amet"
+      subtitle = "Books, forms, and more"
       image = "pic05.jpg"
       url = "resources"
 
     [[params.tiles.showcase]]
       title = "Blog"
-      subtitle = "Feugiat Amet Tempus"
+      subtitle = "Coming Soon"
       image = "pic06.jpg"
-      url = "blogs/ipsum"
+      url = "blogs"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -144,7 +144,7 @@ disqusShortname = ""
 
   # Section Type Two
   [params.two]
-    enable = true
+    enable = false
     title = "Massa libero"
     subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
     Mauris aliquet magna magna sed nunc rhoncus pharetra. 
