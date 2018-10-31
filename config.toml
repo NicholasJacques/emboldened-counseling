@@ -217,7 +217,7 @@ disqusShortname = ""
     #   url= "https://www.github.com"
     #   label = "GitHub"
 
-    [[params.footer.social]]
+    # [[params.footer.social]]
       # icon = "fa-linkedin"
       # url= "https://www.linkedin.com"
       # label = "LinkedIn"
