@@ -99,16 +99,16 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "About Emmy"
-      subtitle = "Meet Emmy Crouter, MSW"
-      image = "headshot.jpg"
-      url = "about"
-
-    [[params.tiles.showcase]]
       title = "Getting Started"
       subtitle = "Learn about procedures, fees, and insurance."
       image = "getting-started.jpg"
       url = "getting-started"
+
+    [[params.tiles.showcase]]
+      title = "About Emmy"
+      subtitle = "Meet Emmy Crouter, MSW"
+      image = "headshot.jpg"
+      url = "about"
 
     [[params.tiles.showcase]]
       title = "Adolescents"
