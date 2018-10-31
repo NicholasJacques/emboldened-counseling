@@ -183,7 +183,7 @@ disqusShortname = ""
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(720) 943-4515"
+    phone = "720.943.4515"
 
     [[params.contact.address]]
     title = "Address"
@@ -218,9 +218,9 @@ disqusShortname = ""
     #   label = "GitHub"
 
     [[params.footer.social]]
-      icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
-      label = "LinkedIn"
+      # icon = "fa-linkedin"
+      # url= "https://www.linkedin.com"
+      # label = "LinkedIn"
 
     # [[params.footer.quicklinks]]
     #   text = "Design: "
