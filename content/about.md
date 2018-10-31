@@ -16,6 +16,7 @@ Emmy Crouter, MSW, is a social worker and registered psychotherapist with a pass
 - **Masters in Social Work**, University of Denver
 - **Bachelor of Arts**, Colorado College
 - **Registered Psychotherapist**, No. NLC.0107683
+
 ---
 
 ### Clinical Experience
