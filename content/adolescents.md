@@ -18,5 +18,3 @@ Common issues addressed in therapy with teens:
 * School problems
 * Interpersonal problems with friends or family
 * Substance experimentation
-
-Contact Button Placeholder

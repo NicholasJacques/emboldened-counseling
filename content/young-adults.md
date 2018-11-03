@@ -24,5 +24,3 @@ Common issues addressed in young adult therapy:
 * Career development and direction
 * Identity formation
 * Interpersonal problems with family and friends
-
-Contact Button Placeholder
