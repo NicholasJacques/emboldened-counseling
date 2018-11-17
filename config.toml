@@ -110,7 +110,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "About Emmy"
-      subtitle = "Meet Emmy Crouter, MSW"
+      subtitle = "Meet Emmy Crouter, MSW, LSW"
       image = "headshot3.jpg"
       url = "about"
 
