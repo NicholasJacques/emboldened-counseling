@@ -134,7 +134,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Blog"
-      subtitle = "Coming Soon"
+      subtitle = ""
       image = "pic06.jpg"
       url = "blogs"
     # You can make more showcases by copy and pasting the code above
